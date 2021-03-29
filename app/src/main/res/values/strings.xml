@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Motion Layout</string>
+    <string name="home_navbar">Home</string>
+    <string name="dashboard_navbar">Dashboard</string>
+    <string name="notifications_navbar">Notifications</string>
+    <string name="todo">TODO</string>
+</resources>
