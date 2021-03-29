@@ -1,0 +1,15 @@
+To Use Motion Layout
+1. Make layout design first
+2. After done design layout then go to design -> right click main layout -> conver to Motion Layout
+3. Change Motion Value Layout at package XML
+4. To edit Motion Value you can do in design main layout by click end poin, then modify yout layout
+   note: sometimes after edit there will be copy of layout, after you make go to XML package and delete the copy
+5. After You edit your end point, next click on transition arrow in design then click watch -> Key Attribute then edit
+6. Next click swipe handler that looks like hand pointing something then choose Swipe Handler
+7. On Create On Swipe make sure you 
+	in Transition in 	(start -> end)
+	Drag Direction 		(dragDown)
+	Anchor Side 		(Bottom)
+	Anchor ID 		(Layout that holds motionlayout variables)
+   
+   (Then Add)
